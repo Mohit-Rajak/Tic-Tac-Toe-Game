@@ -1,4 +1,4 @@
-# Project: Tic-Tac-Toe Game (HTML, CSS, JavaScript)
+# Project:- Tic-Tac-Toe Game (HTML, CSS, JavaScript)
 
 I created a simple and interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns and play on a 3x3 grid, where they alternate marking "X" and "O" on the board. The game includes features like:
 
